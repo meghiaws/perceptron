@@ -1,6 +1,6 @@
 # Perceptron Neural Network
 
-An Implementation of Perceptron Neural Network in Python and Jupyter
+An Implementation of Perceptron Neural Network in Python and Jupyter Notebooks
 
 ## Installation
 
